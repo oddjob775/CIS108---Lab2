@@ -1,0 +1,7 @@
+﻿  Exercise 2.cpp
+  Exercise 2a.cpp
+  Exercise 2b.cpp
+  Generating Code...
+Exercise 2a.obj : error LNK2005: main already defined in Exercise 2.obj
+Exercise 2b.obj : error LNK2005: main already defined in Exercise 2.obj
+C:\Users\Troy\Documents\Coding\C++\Exercise 2\x64\Debug\Exercise 2.exe : fatal error LNK1169: one or more multiply defined symbols found
